@@ -73,4 +73,4 @@ No hay alumnos inscritos en Estructuras de Datos
 
 🔹 Autor
 
-📌 Proyecto académico desarrollado por John Ante – Universidad (Departamento de Sistemas).
+📌 Proyecto académico desarrollado por Jhon Alexander Ante Argote ID:408653 – Universidad Unicatolica.
